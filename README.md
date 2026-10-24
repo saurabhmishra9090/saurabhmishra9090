@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on MetricTrust & LeakGuard — analytics projects focused on KPI monitoring and data integrity.<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence & open-source projects.<br><br>🤝 I’m looking for help with advanced SQL, Python, Power BI & real-world analytics.<br><br>🌱 I’m currently learning Python, Pandas, Power BI & data-driven problem-solving.<br><br>💬 Ask me about SQL, Excel, Data Analytics & KPI Analysis.<br><br>⚡ Fun fact: I love exploring technology, reading books, and turning raw data into meaningful stories! 📊
 
 
@@ -24,5 +22,3 @@
 [![](https://komarev.com/ghpvc/?username=saurabhmishra9090&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**saurabhmishra9090/saurabhmishra9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
